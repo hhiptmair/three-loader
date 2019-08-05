@@ -31,7 +31,7 @@
     "util-deprecate": "^1.0.2"
   },
   "peerDependencies": {
-    "three": "^0.100.0"
+    "three": "^0.105.2"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
@@ -51,7 +51,7 @@
     "size-plugin": "^1.2.0",
     "standard-version": "5.0.2",
     "style-loader": "^0.23.1",
-    "three": "^0.103.0",
+    "three": "^0.105.2",
     "three-orbit-controls": "^82.1.0",
     "ts-loader": "^5.3.3",
     "tslint": "^5.14.0",
